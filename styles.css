@@ -116,6 +116,18 @@ hr{
   text-align: center;
   margin-top: 20px;
 }
+.wordcloud{
+  text-align: center;
+  margin-top: 24px;
+}
+.wordcloud-title{
+  font-size: 20px;
+  font-weight: 700;
+}
+.wordcloud img{
+  max-width: 100%;
+  height: auto;
+}
 .home-text{
   flex: 1;
 }
